@@ -79,7 +79,7 @@ models/prod_deployment_path/latestscore.txt
 
 ### 6- Run diagnostics
 ```python
-python diagnostics.py
+python src/diagnostics.py
 ```
 
 ### 7- Run reporting
