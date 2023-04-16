@@ -54,7 +54,7 @@ python src/training.py
 ```
 Artifacts output:
 ```
-models/practicemodels/trainedmodel.pkl
+practicemodels/trainedmodel.pkl
 ```
 
 ###  4- Model scoring 
