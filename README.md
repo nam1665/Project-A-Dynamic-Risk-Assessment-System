@@ -63,7 +63,7 @@ python src/scoring.py
 ```
 Artifacts output: 
 ```
-models/practicemodels/latestscore.txt
+practicemodels/latestscore.txt
 ``` 
 
 ### 5- Model deployment
