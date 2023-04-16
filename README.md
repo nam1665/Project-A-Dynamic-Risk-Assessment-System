@@ -72,9 +72,9 @@ python src/deployment.py
 ```
 Artifacts output:
 ```
-models/prod_deployment_path/ingestedfiles.txt
-models/prod_deployment_path/trainedmodel.pkl
-models/prod_deployment_path/latestscore.txt
+production_deployment/ingestedfiles.txt
+production_deployment/trainedmodel.pkl
+production_deployment/latestscore.txt
 ``` 
 
 ### 6- Run diagnostics
